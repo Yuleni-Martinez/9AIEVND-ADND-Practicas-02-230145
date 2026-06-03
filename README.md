@@ -17,3 +17,4 @@ Este Repositorio que contendrá las prácticas de la materia para tener una mejo
 |Numero|Descripcion|Potenciador|Estatus
 |---|---|---|---|
 |1.|[Introduccion al uso de Python en el analisis de Datos](/Practica02/Practica_230145.ipynb)|37|Revisada|
+|2.|[Analisis de Datos Exploratorio ](/Practica04/Practica04_230145.ipynb)|37|Revisada|
